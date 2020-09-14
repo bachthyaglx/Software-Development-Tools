@@ -6,3 +6,4 @@ This file will be probably modified!
 This file will be probably modifiedgit add shopping_list.txt!
 This file will be probably modifiedgit add shopping_list.txtgit add -pgit add -pgit add -pgit add -pgit add -pgit add -p
 This file will be probably modifiedgit add shopping_list.txt............
+I love this course
